@@ -7,6 +7,13 @@
 *.o
 *.so
 
+# Frameworks & build files #
+############################
+/public/js
+/public/css
+/public/build
+/public/mix-manifest.json
+
 # IDEs & editors files #
 ########################
 .classpath
